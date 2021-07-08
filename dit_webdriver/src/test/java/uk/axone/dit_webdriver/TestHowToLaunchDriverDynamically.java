@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class TestHowToLaunchDriverDynamically {
-
+//added new comment
     String browser,appUrl,path;
         WebDriver driver;
 
